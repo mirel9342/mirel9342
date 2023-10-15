@@ -3,6 +3,18 @@
 📌 🎓 Estudante de Analise e Desenvolvimento de Sistema -Belo Horizonte(MG)
 📌 Analista de teste/QA | Dev👩‍💻.
 
+## E ai QA, Bugou?
+
+<div align="center" width="50">
+<a><img src="https://media0.giphy.com/media/7jpBG4WQHBYtQE3F5v/giphy.gif"></a> 
+</div>
+
+<div align="center">
+  <a href="https://github.com/mirel9342"> 
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=qajonatasmartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qajonatasmartins&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
