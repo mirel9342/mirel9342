@@ -5,10 +5,6 @@
 
  
 
-<div align="center" width="50">
-<a><img src="https://media0.giphy.com/media/7jpBG4WQHBYtQE3F5v/giphy.gif"></a> 
-</div>
-
  
 
  <div style="display: inline_block"><br>
@@ -21,14 +17,16 @@
 </div>
 
  ##
+
+
+<p align="center">
+	<a href="https://github.com/jonatasmfaria"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href= "https://www.linkedin.com/in/mireli-oliveira-3b2635242/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href= "https://instagram.com/mireliolv"https://github.com/mirel9342 ><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+</p>
+
  
- <div> 
-   
-  <a href="https://instagram.com/mireliolv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:omireli300@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mireli-oliveira-3b2635242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+ 
 
  
  
