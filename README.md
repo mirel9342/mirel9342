@@ -28,10 +28,7 @@
 </p>
 
   
-![Snake animation]
-(https://github.com/mirel9342/mirel9342/blob/output/github-contribution-grid-snake.svg)
-
- [![readme](https://github-readme-stats.vercel.app/apipin/?username=mirel9342 &repo=mirel9342&theme=react)(https://github.com/mirel9342/your mirel9342]
+  
  
   
  
