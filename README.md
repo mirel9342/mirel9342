@@ -1,6 +1,9 @@
 ###  Oie!!☕ Eu sou Mireli Oliveira
 
 📌 🎓Estudante -> Analise e Desenvolvimento de Sistema - Sabará(MG).
+
+<br>
+
 📌Dev👩‍💻 | Analista de teste/QA.
 
  
