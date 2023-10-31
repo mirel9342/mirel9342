@@ -4,7 +4,7 @@
 
 <br>
 
-📌Dev👩‍💻 | Analista de teste/QA.
+
 
  
 
