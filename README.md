@@ -1,6 +1,6 @@
-###  Oie!!☕ Eu sou Mireli Oliveira
+###  Oie!!☕ Eu sou Mireli Oliveira - Sabará-MG.
 
-### 📌Software Developer  <🎓Student - Analise e Desenvolvimento de Sistema - Sabará(MG). />
+### 📌Software Developer  <🎓Student - Analise Desenvolvimento de Sistema />
 
 <br>
 
