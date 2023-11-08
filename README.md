@@ -19,7 +19,6 @@
   <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="30" />  
   <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" />  
   <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30" />  
- 
  <img align="center" alt="mireli-cypress" height="30" width"30" 
   src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmwJ70k9NDjSE5QTzD9Vk3ayBU=s176-c-k-c0x00ffffff-no-rj" />
 <img align="center" alt="mireli-swagger" height="30" width"30" 
