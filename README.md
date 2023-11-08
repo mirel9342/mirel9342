@@ -18,9 +18,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="30"  width="40" />  
-  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30"  width="40" />  
-  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30"  width="40" />  
+  <img align="center" alt="Rafa-Csharp" height="30" width="40"  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"   />  
+  <img align="center" alt="Rafa-Csharp" height="30" width="40"  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" />  
+  <img align="center" alt="Rafa-Csharp" height="30" width="40"  src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma"  />  
  <img align="center" alt="mireli-cypress" height="30" width"30" 
     src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s176-c-k-c0x00ffffff-no-rj" />
   <img align="center" alt="mireli-Robot-framework" height="30" width"30" 
