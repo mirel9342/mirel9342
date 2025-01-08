@@ -1,12 +1,14 @@
-###  Oie!!☕ Eu sou Mireli Oliveira - Sabará-MG.
+ <h1>Olá! 👋</h1>
+
+ ## My name is Mireli Oliveira 
+(Cypress | Playwright I Selenium | API  | Jest | K6 | JUnit | Docker | JavaScript | Java | Node.js | AWS) 🚀
+- 👩‍💻  Test Enginner | Software Developer
+- ✨ FinOps,AWS,Cloud
+- 🎓 Tecnologo Analise Desenvolvimento de Sistema
+- 💡 Love a good challenge
 
 ### 📌Test Enginner | Software Developer
-<br>
-
-### <🎓Student - Analise Desenvolvimento de Sistema />
-
-<br>
-
+ 
 
 
  
