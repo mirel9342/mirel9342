@@ -4,7 +4,7 @@
 (Cypress | Playwright I Selenium | API  | Jest | K6 | JUnit | Docker | JavaScript | Java | Node.js | AWS) 🚀
 - 👩‍💻  Test Enginner | Software Developer
 - ✨ FinOps,AWS,Cloud
-- 🎓 Analise Desenvolvimento Sistemas
+- 🎓 Analise Desenvolvimento de Sistemas
 - 💡 Love a good challenge
 
 ### 📌Test Enginner | Software Developer
