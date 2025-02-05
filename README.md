@@ -26,8 +26,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40"  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"   />  
   <img align="center" alt="Rafa-Csharp" height="30" width="40"  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" />  
   <img align="center" alt="Rafa-Csharp" height="30" width="40"  src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma"  />  
- <img align="center" alt="mireli-cypress" height="30" width"30" 
-    src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s176-c-k-c0x00ffffff-no-rj" />
+  <img align="center" alt="mireli-cypress" height="30" width="30"  src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s176-c-k-c0x00ffffff-no-rj" />
+ 
   <img align="center" alt="mireli-Robot-framework" height="30" width"30" 
   src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Gt2wknIMvc3P0KFadp1mlQ.png" />
 </div>
