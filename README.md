@@ -3,7 +3,7 @@
  ## My name is Mireli Oliveira 
 (Cypress | Playwright I Selenium | API  | Jest | K6 | JUnit | Docker | JavaScript | Java | Node.js | AWS) 🚀
 - 👩‍💻  Test Enginner | Software Developer
-- ✨ FinOps,AWS,Cloud
+- ✨ FinOps,AWS,Re/Star
 - 🎓 Analise Desenvolvimento de Sistemas
 - 💡 Love a good challenge
 
