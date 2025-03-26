@@ -31,7 +31,7 @@ src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17
  <img align="center" alt="mireli-Robot-framework" height="30" width="30" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Gt2wknIMvc3P0KFadp1mlQ.png" />
 
  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright&titles=true,git&theme=light)
-[![My Skills](https://skillicons.dev/icons?i=selenium,androidstudio,postman,graphql,jenkins,mysql,docker,nodejs,github,githubactions,git&theme=light )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium,androidstudio,postman,mysql,docker,nodejs,github,githubactions,git&theme=light )](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,cs,dotnet&theme=light )](https://skillicons.dev)  
 
