@@ -19,10 +19,6 @@
      
   <img align="center" alt="Rafa-Ts" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright&titles=true,git&theme=light)
-   [![My Skills](https://skillicons.dev/icons?i=selenium,androidstudio,postman,mysql,docker,nodejs,github,githubactions,git&theme=light )](https://skillicons.dev)
-   [![My Skills](https://skillicons.dev/icons?i=js,py,java,cs,dotnet&theme=light )](https://skillicons.dev)  
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="40" width="50"  src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"   />  
@@ -31,6 +27,9 @@
  <img align="center" alt="mireli-Robot-framework" height="40" width="50" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Gt2wknIMvc3P0KFadp1mlQ.png" />
  
  
+   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright&titles=true,git&theme=light)
+   [![My Skills](https://skillicons.dev/icons?i=selenium,androidstudio,postman,mysql,docker,nodejs,github,githubactions,git&theme=light )](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,py,java,cs,dotnet&theme=light )](https://skillicons.dev)  
 
 </div>
 
